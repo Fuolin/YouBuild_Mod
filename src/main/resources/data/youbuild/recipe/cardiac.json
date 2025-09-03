@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "r": {
+      "item": "minecraft:comparator"
+    },
+    "w": {
+      "item": "minecraft:wither_rose"
+    },
+    "c": {
+      "item": "minecraft:crafter"
+    },
+    "m": {
+      "item": "minecraft:ender_pearl"
+    },
+    "x": {
+      "item": "minecraft:nether_wart_block"
+    }
+  },
+  "pattern": [
+    "rw ",
+    "cmx",
+    " xx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "youbuild:cardiac"
+  }
+}

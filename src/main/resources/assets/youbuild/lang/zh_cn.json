@@ -1,0 +1,39 @@
+{
+  "handler.youbuild.compare": "对比",
+  "handler.youbuild.build": "建造",
+  "item.youbuild.cardiac": "“心脏”",
+  "itemGroup.youbuild.you_build_tab": "建造化",
+
+  "tooltip.youbuild.cardiac": "或许就是你所需的",
+  "tooltip.youbuild.cardiac.moreinfo": "按住§dShift§7§o查看详情",
+  "tooltip.youbuild.cardiac.detail.line1": "潜行时右键方块选择存储方块的箱子",
+  "tooltip.youbuild.cardiac.detail.line2": "用结构化的建造选项开始建造",
+  "tooltip.youbuild.cardiac.detail.line3": "消耗箱子中的方块",
+  "msg.youbuild.position_selected": "已选择方块位置: %d, %d, %d",
+
+  "blueprint.overdata": "§c蓝图过大",
+  "blueprint.compress_error": "§c蓝图压缩失败",
+  "blueprint.decompress_error": "§c蓝图解压失败",
+  "blueprint.parse_failed": "§c蓝图解析失败!",
+  "blueprint.mismatch_found": "§c发现 %d 个不匹配方块：",
+  "blueprint.build_complete": "§a建造已完成!",
+  "blueprint.blocked_position": "§c位置被阻挡: ",
+  "blueprint.chest_position": "§e箱子位置: %s",
+  "blueprint.missing_item": "§e物品不足: ",
+  "blueprint.blueprint_error": "§c蓝图数据错误",
+  "blueprint.placement_failed": "§c方块放置失败",
+  "blueprint.progress": "§b进度: %d/%d (%d%%)",
+
+  "command.file_not_found": "找不到文件: %s",
+  "command.structure_complete": "§a完成建筑",
+  "command.execution_failed": "§c指令执行失败: %s - %s",
+  "command.file_io_error": "§c文件操作错误: %s",
+
+  "foldermover.path_traversal": "§c路径越界!",
+  "foldermover.success":"§a已开放章节：%s",
+  "foldermover.fail": "§c移动文件夹失败!",
+
+  "item.cardiac": "心脏",
+  "item.cardiac_null": "没有用“心脏”指定位置"
+
+}

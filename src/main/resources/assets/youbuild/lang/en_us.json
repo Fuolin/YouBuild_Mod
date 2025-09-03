@@ -1,0 +1,39 @@
+{
+  "handler.youbuild.compare": "compare",
+  "handler.youbuild.build": "build",
+  "item.youbuild.cardiac": "'Cardiac'",
+  "itemGroup.youbuild.you_build_tab": "YouBuild",
+
+  "tooltip.youbuild.cardiac": "Maybe this is exactly what you need",
+  "tooltip.youbuild.cardiac.moreinfo": "Hold §dShift§7§o for details",
+  "tooltip.youbuild.cardiac.detail.line1": "Sneak and right-click on a block to select a chest storing blocks",
+  "tooltip.youbuild.cardiac.detail.line2": "Start building with stucturize-build options",
+  "tooltip.youbuild.cardiac.detail.line3": "Consume the blocks in the box",
+  "msg.youbuild.position_selected": "Selected block position: %d, %d, %d",
+
+  "blueprint.overdata": "§cBlueprint data too large",
+  "blueprint.compress_error": "§cBlueprint compression failed",
+  "blueprint.decompress_error": "§cBlueprint decompression failed",
+  "blueprint.parse_failed": "§cFailed to parse blueprint!",
+  "blueprint.mismatch_found": "§cFound %d mismatched blocks:",
+  "blueprint.build_complete": "§aBuilding completed!",
+  "blueprint.blocked_position": "§cPosition blocked: ",
+  "blueprint.chest_position": "§eChest position: %s",
+  "blueprint.missing_item": "§eMissing item: ",
+  "blueprint.blueprint_error": "§cBlueprint data error",
+  "blueprint.placement_failed": "§cBlock placement failed",
+  "blueprint.progress": "§bProgress: %d/%d (%d%%)",
+
+  "command.file_not_found": "File not found: %s",
+  "command.structure_complete": "§aStructure completed",
+  "command.execution_failed": "§cCommand execution failed: %s - %s",
+  "command.file_io_error": "§cFile operation error: %s",
+
+  "foldermover.path_traversal": "§cpath traversal!",
+  "foldermover.success":"§aAvailable chapters: %s",
+  "foldermover.fail": "Failed to move the folder!",
+
+  "item.cardiac": "Cardiac",
+  "item.cardiac_null": "Not using 'Cardiac' to specify the position."
+
+}
